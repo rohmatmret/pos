@@ -1,5 +1,4 @@
-# pos
-java application pos
-
-
-tugas kuliah apps dekstop pos
+## POS application java  ( tugas kuliah )
+ Fitur List
+1. Multi login users 
+2. Print with Jasper report 
